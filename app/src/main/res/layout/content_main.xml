@@ -10,7 +10,6 @@
         android:id="@+id/editAnotacao"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginTop="140dp"
         android:background="@color/cor_fundo_caixa_texto"
         android:ems="10"
         android:gravity="start|top"
